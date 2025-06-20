@@ -1,8 +1,7 @@
 <?php
 
-namespace Meioa\Table\Parse;
+namespace Meioa\Tools;
 
-use Meioa\Tools\Db;
 
 /**
  * 数据库表字段、表主键解析
