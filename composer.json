@@ -1,0 +1,21 @@
+{
+    "name": "meioa/table-parse",
+    "description": "Parser for database table fields and table primary keys",
+    "type": "library",
+    "license": "Mit",
+    "autoload": {
+        "psr-4": {
+            "Meioa\\Table\\Parse\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sunny",
+            "email": "814979326@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4",
+        "meioa/db": "^1.0"
+    }
+}
